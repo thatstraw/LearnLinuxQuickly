@@ -1,3 +1,4 @@
+![](linux.jfif)
 # Learn Linux Quickly: A Comprehensive Guide for Getting Up to Speed on the Linux Command
 
 You've experienced the shiny, point-and-click surface of your Linux computer--now dive below and explore its depths with the power of the command line.
